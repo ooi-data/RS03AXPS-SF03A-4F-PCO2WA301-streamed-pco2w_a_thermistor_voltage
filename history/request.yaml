@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS03AXPS-SF03A-4F-PCO2WA301-streamed-pco2w_a_thermistor_voltage
-last_request: '2021-12-21T22:57:01.363197Z'
+last_request: '2022-01-01T02:20:54.291208Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPS-SF03A-4F-PCO2WA301-streamed-pco2w_a_thermistor_voltage/main/history/response.json
 status: discontinued
